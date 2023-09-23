@@ -255,7 +255,7 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 228)
   webrick (~> 1.8)
 
 BUNDLED WITH
