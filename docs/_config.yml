@@ -1,19 +1,21 @@
 # Site settings
 title: FragTag3D
 description: A Dataset for 3D Model Fractures with Labeled Fracture Surfaces
+author: Haotian Su, Xiaoyao Xie, Song Liu
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-dataset_name: FragTag3D:A Dataset of 3D Object Fragment Containing Fracture Identification
-dataset_description: FragTag3D is a specialized resource designed for shattered 3D models with labeled fracture surfaces. Built upon the foundation of the Thingy10k and TU Wien Real-World 3D Scans datasets, this dataset employs the fracture_modifier plugin in Blender to shatter the 3D models. It includes a diverse set of thick-walled 3D models, with matching fracture surfaces color-coded for ease of automated assembly and machine learning applications. The dataset is available in open 3D formats and is accompanied by comprehensive metadata, making it invaluable for researchers and practitioners in fields such as archaeological artifact assembly, machine learning, and point cloud registration.
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+dataset_name: FragTag3D:A Dataset for 3D Model Fractures with Labeled Fracture Surfaces
+dataset_author: Haotian Su, Xiaoyao Xie, Song Liu
+dataset_description: FragTag3D is a dataset aimed at shattered 3D models featuring annotated fracture surfaces. Based on the Thingy10k dataset, this collection employs Blender's fracture_modifier plugin to produce shattered 3D models. It offers a diverse assortment of thick-walled shattered 3D models, with their matching fracture surfaces color-coded to facilitate automated assembly and machine learning applications. Additionally, we have extended the same fracture surface annotations to the 3D Puzzle dataset from TU Wien (Vienna University of Technology). Available in open 3D formats and accompanied by comprehensive metadata, this dataset holds significant value for researchers and practitioners in various fields, including archaeological artifact assembly, machine learning, and point cloud registration.
+#user_title: Software Engineer
+#email: mauriurraco@gmail.com
 # twitter_username: lorem_ipsum
-instagram_username: mauriciourraco
-facebook_username: mauricio.urraco
-linkedin_username: murraco
-github_username:  murraco
+#instagram_username: mauriciourraco
+#facebook_username: mauricio.urraco
+#linkedin_username: murraco
+#github_username:  murraco
 # medium_username: lorem_ipsum
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
