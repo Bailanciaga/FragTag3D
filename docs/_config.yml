@@ -2,8 +2,8 @@
 title: FragTag3D
 description: A Dataset for 3D Model Fractures with Labeled Fracture Surfaces
 author: Haotian Su, Xiaoyao Xie, Song Liu
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#baseurl: "/FragTag3D" # the subpath of your site, e.g. /blog
+#url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 dataset_name: FragTag3D:A Dataset for 3D Model Fractures with Labeled Fracture Surfaces
