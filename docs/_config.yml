@@ -7,7 +7,8 @@ author: Haotian Su, Xiaoyao Xie, Song Liu
 
 # User settings
 dataset_name: FragTag3D:A Dataset for 3D Model Fractures with Labeled Fracture Surfaces
-dataset_author: Haotian Su, Xiaoyao Xie, Song Liu
+dataset_author: Haotian Su, Xiaoyao Xie, Song Liu, Kunwei Shi, Yu Zhong, 
+  Zixu Guo, Yunjun Lu, Mingqiang Xu
 dataset_description: FragTag3D is a dataset aimed at shattered 3D models featuring annotated fracture surfaces. Based on the Thingy10k dataset, this collection employs Blender's fracture_modifier plugin to produce shattered 3D models. It offers a diverse assortment of thick-walled shattered 3D models, with their matching fracture surfaces color-coded to facilitate automated assembly and machine learning applications. Additionally, we have extended the same fracture surface annotations to the 3D Puzzle dataset from TU Wien (Vienna University of Technology). Available in open 3D formats and accompanied by comprehensive metadata, this dataset holds significant value for researchers and practitioners in various fields, including archaeological artifact assembly, machine learning, and point cloud registration.
 #user_title: Software Engineer
 #email: mauriurraco@gmail.com
