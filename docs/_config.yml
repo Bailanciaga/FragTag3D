@@ -7,8 +7,8 @@ author: Haotian Su, Xiaoyao Xie, Song Liu
 
 # User settings
 dataset_name: FragTag3D:A 3D object fragment dataset with annotations for overlapping regions
-dataset_author: Haotian Su, Xiaoyao Xie, Song Liu, Kunwei Shi, Yu Zhong, 
-  Zixu Guo, Yunjun Lu, Mingqiang Xu
+#dataset_author: Haotian Su, Xiaoyao Xie, Song Liu, Kunwei Shi, Yu Zhong,
+#  Zixu Guo, Yunjun Lu, Mingqiang Xu
 dataset_description: The FragTag3D dataset is designed for shattered 3D models and comes annotated with overlapping area information between fragments. Based on the Thingy10k dataset, it employs Blender's fracture_modifier plugin to create shattered 3D models. This dataset features a variety of thick-walled shattered 3D models, with corresponding fracture surfaces color-coded to facilitate automatic assembly and machine learning applications. Furthermore, we have extended these overlapping area annotations to the 3D Puzzle dataset from TU Wien (Vienna University of Technology). Available in open 3D formats and accompanied by comprehensive metadata, this dataset is of significant importance for researchers and practitioners in fields such as archaeological artifact assembly, machine learning, and point cloud registration.
 #user_title: Software Engineer
 #email: mauriurraco@gmail.com
